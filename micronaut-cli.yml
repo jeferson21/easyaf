@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.easy.af
+---
+testFramework: spock
+sourceLanguage: groovy
